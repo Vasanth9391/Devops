@@ -1,0 +1,8 @@
+#!/bin/bah
+
+#create a folder 
+mkdir vasanth
+
+# create two files 
+cd vasanth
+touch vasu kumar
